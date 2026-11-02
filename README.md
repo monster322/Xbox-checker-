@@ -1,2 +1,2 @@
 # Xbox-checker-
-It xbox checker works perfectly
+It’s an xbox checker works perfectly
